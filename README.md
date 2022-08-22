@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SAS-Naji
+- 👋 Hi, I’m Naji
 - 📫 How to reach me: naji.shehab@sas.com
 
 <!---
